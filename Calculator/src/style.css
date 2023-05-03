@@ -1,0 +1,32 @@
+.calculatorBox{
+    width: 320px;
+    margin: 100px auto;
+   margin-left: 32rem;
+   margin-top: rem;
+  }
+  .result{
+    background-color: #e2e2e2;
+    padding: 10px;
+    font-size: 35px;
+    width: 295px;
+    height: 45px;
+    text-align: right;
+    border: 3px solid #333;
+  }
+  .result:hover {
+    color:maroon;
+  }
+  .button{
+    background-color: #d87c7c;
+    height: 80px;
+    width: 80px;
+    color: black;
+    font-size: 30px;
+    border: 1px solid black;
+  }
+  .button:hover{
+color:white;
+  }
+  .button1{
+    width: 160px
+  }
